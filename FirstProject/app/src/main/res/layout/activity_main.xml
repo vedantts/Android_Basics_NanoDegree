@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.vedantsingh.android.firstproject.MainActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/restaurant"
+        android:id="@+id/imageView"
+        android:scaleType="centerCrop"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true" />
+    "/>
+    <TextView
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hangout Restaurant"
+        android:layout_alignParentTop="true"
+        android:textSize="36sp"
+        android:padding="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/darker_gray"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="      Address -Panchkula ,Harayana"
+        android:padding="10dp"
+        android:id="@+id/textView"
+        android:layout_marginBottom="146dp"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="        Hours of Operation : 10am to 11pm"
+        android:id="@+id/textView3"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView2" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="      Contact - +917009464406"
+        android:id="@+id/textView2"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="40dp"
+        android:layout_alignTop="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        />
+</RelativeLayout>

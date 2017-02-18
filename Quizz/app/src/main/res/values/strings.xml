@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="Question1">Q1.Which word doesn\'t fit?</string>
+    <string name="Question2">Q2. Complete the following series \n 8-5-9-4-10-3-?</string>
+    <string name="Question3">Q3. What was yeterday, if Monday is in two days?</string>
+    <string name="Question4">Q4. Which one of the following is least like the others</string>
+    <string name="Question5">Q5. Which of the following is a name of a Country? </string>
+    <string name="Option11">Smiling</string>
+    <string name="Option12">Seeing</string>
+    <string name="Option13">Hearing</string>
+    <string name="Option14">Smelling</string>
+    <string name="Option21">2</string>
+    <string name="Option22">11</string>
+    <string name="Option23">1</string>
+    <string name="Option24">10</string>
+    <string name="Option31">Friday</string>
+    <string name="Option32">Wednesday</string>
+    <string name="Option33">Saturday</string>
+    <string name="Option34">Sunday</string>
+    <string name="Option41">Dog</string>
+    <string name="Option42">Elephant</string>
+    <string name="Option43">Snake</string>
+    <string name="Option44">Mouse</string>
+    <string name="Option51">India</string>
+    <string name="Option52">Sri Lanka</string>
+    <string name="Option53">Asia</string>
+    <string name="Option54">All of these</string>
+    <string name="Button">Submit</string>
+    <string name="name">Enter Your Name</string>
+</resources>

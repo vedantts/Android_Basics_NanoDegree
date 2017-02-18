@@ -148,13 +148,24 @@
             android:text="@string/Option52" />
 
         <CheckBox
+            android:id="@+id/check3"
             style="@style/Radio"
             android:text="@string/Option53" />
 
         <CheckBox
+            android:id="@+id/check4"
             style="@style/Radio"
             android:layout_marginBottom="24dp"
             android:text="@string/Option54" />
+
+        <TextView
+            style="@style/Text"
+            android:text = "@string/Question6"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/prime_minister"
+            android:layout_marginBottom="16dp"/>
 
         <Button
             style="@style/Button"

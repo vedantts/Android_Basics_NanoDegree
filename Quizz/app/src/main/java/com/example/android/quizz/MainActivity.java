@@ -64,24 +64,33 @@ public class MainActivity extends AppCompatActivity {
     {
         CheckBox c1=(CheckBox)findViewById(R.id.check1);
         CheckBox c2=(CheckBox)findViewById(R.id.check2);
+        CheckBox c3 = (CheckBox) findViewById(R.id.check3);
+        CheckBox c4 = (CheckBox) findViewById(R.id.check4);
         int m=0;
-        if(c1.isChecked())
-            m=m+1;
-        if(c2.isChecked())
+        if(c1.isChecked()&& c2.isChecked() && !c3.isChecked() && !c4.isChecked())
             m=m+1;
         return m;
 
+    }
+    private int question6()
+    {
+        EditText pm = (EditText) findViewById(R.id.prime_minister);
+        String primeMinister = pm.getText().toString();
+        if(primeMinister.equals("Narendra Modi") )
+            return 1;
+        return 0;
     }
     public void Marks(View view)
     {
         marks = 0;
         EditText name=(EditText) findViewById(R.id.name_field);
         String names=name.getText().toString();
-        marks=marks+question1();
-        marks=marks+question2();
-        marks=marks+question3();
-        marks=marks+question4();
-        marks=marks+question5();
+        marks = marks + question1();
+        marks = marks + question2();
+        marks = marks + question3();
+        marks = marks + question4();
+        marks = marks + question5();
+        marks = marks + question6();
         Toast.makeText(this,names + "'s IQ is " + marks +" "+"out of 6",Toast.LENGTH_SHORT).show();
     }
 }

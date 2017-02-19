@@ -35,6 +35,9 @@
     </LinearLayout>
     <TextView
         style="@style/CategoryStyle4"
+        android:text="This screen shows the Genres available."/>
+    <TextView
+        style="@style/CategoryStyle4"
         android:text="Rock" />
     <TextView
         style="@style/CategoryStyle4"

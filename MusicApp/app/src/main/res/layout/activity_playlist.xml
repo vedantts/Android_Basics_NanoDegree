@@ -35,6 +35,9 @@
     </LinearLayout>
     <TextView
         style="@style/CategoryStyle4"
+        android:text="This activity shows the available playlists"/>
+    <TextView
+        style="@style/CategoryStyle4"
         android:text="Recently Added" />
 
     <TextView

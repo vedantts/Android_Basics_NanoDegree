@@ -37,6 +37,9 @@
                 android:id="@+id/playlist"/>
         </LinearLayout>
         <TextView
+            style="@style/CategoryStyle4"
+            android:text="This activity is displaying all the songs available"/>
+        <TextView
             style="@style/CategoryStyle2"
             android:text="Takin'g Back My Love" />
         <TextView

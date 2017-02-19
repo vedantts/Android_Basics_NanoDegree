@@ -32,6 +32,9 @@
             android:textColor="#000000"
             android:id="@+id/playlist"/>
     </LinearLayout>
+    <TextView
+        style="@style/CategoryStyle4"
+        android:text = "This Activity shows the names of the Artists "/>
 
     <TextView
         style="@style/CategoryStyle4"

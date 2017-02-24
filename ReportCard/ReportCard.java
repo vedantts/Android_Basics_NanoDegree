@@ -83,10 +83,10 @@ public class ReportCard {
     @Override
     public String toString() {
         return "Result { " +
-                "OS = " + OS_Marks +
-                "\nCSA = " + CSA_Marks +
-                "\nADBMS = " + ADBMS_marks +
-                "\nDS = " + DS_marks +
+                "OS = " + Os +
+                "\nCSA = " + Csa +
+                "\nADBMS = " + Adbms +
+                "\nWEB = " + Web +
                 "\nSUM = " + Sum +
                 " }";
     }

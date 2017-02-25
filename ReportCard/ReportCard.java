@@ -1,11 +1,10 @@
-package com.example.android.reportcard;
+package com.example.android.ReportCard;
 
 /**
- * Created by Vedant Singh on 01-02-2017.
+ * Created by win 8.1 on 25-02-2017.
  */
 
 public class ReportCard {
-
     private char Section;
     private String Name;
     private int Os;

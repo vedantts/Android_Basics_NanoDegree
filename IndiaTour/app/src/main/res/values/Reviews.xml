@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Restaurant reviews taken from Zomato-->
+    <string name="res_review_one">"Nice place to have tasty non-veg food"</string>
+
+    <string name="res_review_two">"Food was properly cooked and very tasty,The service was very good"</string>
+
+    <string name="res_review_three">"Great place for meals with family and friends.".</string>
+
+    <string name="res_review_four">	"Karavalli offers a relaxing environment protected from the city traffic."</string>
+
+    <string name="res_review_five">"Even the food served there is great and its a pure vegetarian restaurant."</string>
+
+    <string name="res_review_six">"Amazing place to treat ur self with tasty authentic Italian and Mexican food."</string>
+
+    <string name="res_review_seven">"Very nice food, astonishing view, small prices, friendly owner"
+</string>
+
+    <string name="res_review_eight">Visited with friends and had a great meal during the year-end thai food festival</string>
+
+    <!--Places reviews made by myself from my experiences-->
+    <string name="place_review_one">Nested between The Valleys Shimla truly is the Queen of Hill Stations</string>
+
+    <string name="place_review_two">Superb! Enjoyed Boat House the most</string>
+
+    <string name="place_review_three">Awesome place! Just like described in 3 idiots!!</string>
+
+    <string name="place_review_four">Great City!! Truly the tech Capital of India</string>
+
+    <string name="place_review_five">Enjoyed Myself in the Bollywood City!</string>
+
+    <string name="place_review_six">The Best place to visit to feel the history and heritage!!</string>
+
+    <string name="place_review_seven">Party Capital Of India! Enough Said!!</string>
+
+    <string name="place_review_eight">My God!! Those tea gardens are amazing</string>
+
+    <!--These reviews taken from meetup.com-->
+    <string name="event_review_one"> Creative stencils, posters, and site-specific works are just
+        some of the great elements of this spectacular event.</string>
+
+    <string name="event_review_two">Enjoyed so much that still trying to remove color from hair.</string>
+
+    <string name="event_review_three">Best variety of artwork, such as paintings, sculptures, installations,
+        films, digital media and performing arts.</string>
+
+    <string name="event_review_four">You can\'t just keep your feet still!!</string>
+
+    <string name="event_review_five">Watched some of the best films ever made</string>
+
+    <string name="event_review_six">The International Mango Festival celebrates the king of all tropical fruit,
+        the ubiquitous Indian mango.YUM!!!!</string>
+
+    <string name="event_review_seven">Had an amazing time at the festival!!</string>
+
+    <string name="event_review_eight">Who knew that folk songs are that amazing!!</string>
+</resources>

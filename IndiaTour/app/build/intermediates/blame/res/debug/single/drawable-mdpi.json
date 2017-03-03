@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\event.png",
+        "source": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\src\\main\\res\\drawable-mdpi\\event.png"
+    },
+    {
+        "merged": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\place.png",
+        "source": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\src\\main\\res\\drawable-mdpi\\place.png"
+    },
+    {
+        "merged": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\review.png",
+        "source": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\src\\main\\res\\drawable-mdpi\\review.png"
+    },
+    {
+        "merged": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\restaurant.png",
+        "source": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\src\\main\\res\\drawable-mdpi\\restaurant.png"
+    }
+]

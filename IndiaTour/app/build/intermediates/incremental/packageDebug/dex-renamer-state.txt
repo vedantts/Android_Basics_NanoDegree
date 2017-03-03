@@ -1,0 +1,7 @@
+#Fri Mar 03 23:25:35 IST 2017
+base.0=C\:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1eeb4cb6131031fa80c1f1ef6698fcf1a1bc1465
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_397be15a2c2e8de9f2b27e10e18f585239ed0d36\\classes.dex
+base.1=C\:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_397be15a2c2e8de9f2b27e10e18f585239ed0d36
+file.0=C\:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1eeb4cb6131031fa80c1f1ef6698fcf1a1bc1465\\classes.dex

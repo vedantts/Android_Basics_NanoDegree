@@ -10,14 +10,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link EventFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link EventFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class EventFragment extends Fragment {
     public EventFragment() {
         // Required empty public constructor

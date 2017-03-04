@@ -5,32 +5,33 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="618619600290677"
+    timestamp="657280181482684"
     token="-8480045672055566052"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2499" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1976" />
     <task
         name="verifier"
-        duration="0" />
+        duration="708" />
+
+    <artifact
+        location="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="618563759216195"
+        timestamp="657280181482684"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="618619600290677"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

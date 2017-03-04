@@ -1,7 +1,6 @@
 package com.example.android.indiatour;
 
-import android.content.Context;
-import android.net.Uri;
+
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -12,14 +11,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link PlacesFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link PlacesFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class PlacesFragment extends Fragment {
     public PlacesFragment() {
         /**Empty Constructor*/

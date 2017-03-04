@@ -7,8 +7,44 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="22621afaf23b16a8a29f3d1e3290f3cbaa6d67c9">
+        sha1="f4e2b2a2eec0cbc729cca434bc100202d5ce0b68">
         <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1eeb4cb6131031fa80c1f1ef6698fcf1a1bc1465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_332c2c9cc812d6add16f5eeeb7dda40f99af3359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_241d5bcd74c9b4e448f8609929419d20c96d2bcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_ef6fb34e3baa6c84cb104814d17a0c7b2b859f66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_143d2e23e3dc322d711936951d7b5871b1f170f2\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -25,17 +61,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f1c1b2116c63a46fdf80a0cf399705ac20eeeebe">
+        sha1="72e4961ab53ac2bfe7f8c29bcd7cdf275b9e5f65">
         <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_397be15a2c2e8de9f2b27e10e18f585239ed0d36\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_241d5bcd74c9b4e448f8609929419d20c96d2bcf\classes.dex" />
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_a5f9b126c6273bd225ce700d516e729b91ea7c81\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -54,15 +90,6 @@
         revision="25.0.2"
         sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
         <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_0c529e3a3f02937ed9bfea077820638f6f993f12\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_ef6fb34e3baa6c84cb104814d17a0c7b2b859f66\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,30 +129,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_1e768efd53de059b6dc49edd934023f95f0765ff\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
         <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_55907c7066e9a5ec0890887aa0993b93a459fce8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\win 8.1\Documents\GitHub\Android_Basics_NanoDegree\IndiaTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_7e7b5886004efffb2a425375bc84abf1b493e161\classes.dex" />
     </item>
 
 </items>

@@ -56,6 +56,14 @@
         "source": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\color\\design_error.xml"
+    },
+    {
         "merged": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color\\abc_btn_colored_text_material.xml"
     },

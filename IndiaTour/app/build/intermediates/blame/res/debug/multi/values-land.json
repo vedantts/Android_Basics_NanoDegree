@@ -88,14 +88,14 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\win 8.1\\Documents\\GitHub\\Android_Basics_NanoDegree\\IndiaTour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values-land\\values-land.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 224,
-                        "endLine": 7,
+                        "startOffset": 55,
+                        "endLine": 5,
                         "endColumn": 12,
-                        "endOffset": 401
+                        "endOffset": 232
                     }
                 }
             }

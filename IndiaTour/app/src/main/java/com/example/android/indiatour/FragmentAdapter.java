@@ -56,7 +56,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 1) {
             return mContext.getString(R.string.category_event);
         } else if (position == 2) {
-            return "Food";
+            return mContext.getString(R.string.category_restaurants);
         } else {
             return mContext.getString(R.string.category_reviews);
         }
